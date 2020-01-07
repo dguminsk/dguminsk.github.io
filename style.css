@@ -24,7 +24,7 @@ h1 {
 .box {
   margin: 0 auto;
   background: rgba(255,255,255,0.2);
-  padding: 15px;
+  padding: 5px;
   border: 2px solid #fff;
   border-radius: 20px/50px;
   background-clip: padding-box;
